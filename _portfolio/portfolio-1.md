@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Ipsum Lorem is all you need"
+excerpt: "Official implementation of the COML 2025 oral paper on simplifying LLM architectures with Ipsum Lorem techniques.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Official code repository for "Ipsum Lorem is all you need" (COML 2025, Oral Presentation). Demonstrates competitive performance with reduced computational costs.
